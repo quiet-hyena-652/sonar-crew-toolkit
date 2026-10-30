@@ -1,0 +1,22 @@
+{
+  "name": "sonar-crew-toolkit",
+  "displayName": "S.O.N.A.R. Crew Toolkit",
+  "programType": "crew-toolkit",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Crew planning",
+    "Session records",
+    "Control reference"
+  ],
+  "topics": [
+    "sonar-crew-toolkit",
+    "sonar-tools",
+    "sonar-menu",
+    "sonar-settings",
+    "sonar-configs",
+    "sonar-crew-planning",
+    "sonar-session-records"
+  ]
+}
